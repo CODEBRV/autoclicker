@@ -1,1 +1,1 @@
-An Auto clicker for automated gaming
+A Auto clicker for automated gaming
